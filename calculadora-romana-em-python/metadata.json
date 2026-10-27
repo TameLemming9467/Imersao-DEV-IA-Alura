@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Romana em Python",
+  "description": "Calculadora interativa com algarismos romanos, conversor bidirecional, simulador e exportador de código Python.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
