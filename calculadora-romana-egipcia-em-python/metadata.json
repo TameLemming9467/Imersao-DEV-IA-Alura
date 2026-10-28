@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Romana e Egípcia em Python",
+  "description": "Calculadora multi-funções com algarismos romanos e egípcios, 4 operações básicas inteiras, conversor e código Python.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
